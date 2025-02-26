@@ -7,10 +7,15 @@
 ---
 
 ## 📌 Sobre mí  
+
 🔹 👨‍💻 Desarrollador especializado en **JavaScript**  
-🔹 📚 Actualmente aprendiendo **Three.js** framework de javaScript para generar elementos o interactividad en 3D con el usuario
-🔹 💡 Interesado en **como IA, desarrollo web**  
-🔹 🎯 Siempre buscando mejorar mis habilidades y compartir conocimiento  
+
+🔹 📚 Actualmente aprendiendo **Three.js**, un framework de JavaScript para generar elementos o interactividad en 3D con el usuario.  
+
+🔹 💡 Interesado en **IA** y **desarrollo web**.  
+
+🔹 🎯 Siempre buscando mejorar mis habilidades y compartir conocimiento.
+
 
 ---
 
@@ -23,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   
 </p>
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Julalz&layout=compact&theme=radical)
+
 
 
 ---
